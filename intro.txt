@@ -1,0 +1,7 @@
+Background: We will use weather API for the prediction of weathers in upcoming days ++++ AI api for prediction of (location + timing to start crop & harvesting) ensuring no effects of weather.
+
+Why ?
+
+Due to weather change, farmers are facing huge issues. 
+FOr example, during the time of harvesting rice, it rains which entirely damages the crops.
+Parwal being damaged due to unexpected water and sun. 
