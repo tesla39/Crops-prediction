@@ -1,3 +1,5 @@
+`https://api.open-meteo.com/v1/seasonal?latitude=${lat}&longitude=${lon}&models=SEAS5&variables=precipitation_mean,temperature_mean&forecast_length=7months`;
+
 const lat = 1.3521;   // Singapore example
 const lon = 103.8198;
 const url = `https://seasonal-api.open-meteo.com/v1/seasonal?latitude=${lat}&longitude=${lon}`
